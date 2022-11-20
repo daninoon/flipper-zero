@@ -592,7 +592,7 @@ echo "Volume to max level"
 
 # a popup will be displayed before freezing the script while waiting for the cursor to move to continue the script
 # else capslock light will blink as an indicator
-$popmessage = "Hello $fullName"
+$popmessage = "Hello bal-eter"
 
 
 $readyNotice = New-Object -ComObject Wscript.Shell;$readyNotice.Popup($popmessage)
