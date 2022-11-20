@@ -85,13 +85,12 @@ function Get-RAM {
 
 # ENTER YOUR CUSTOM RESPONSES HERE
 #----------------------------------------------------------------------------------------------------
-    $lowRAM = "$RAM gigs of ram? might as well use pen and paper"
+    $lowRAM = "$RAM eet me bal"
     
-    $okRAM = "$RAM gigs of ram really? I have a calculator with more computing power"
+    $okRAM = "$RAM eet me bal"
     
-    $goodRAM = "$RAM gigs of ram? Can almost guarantee you have a light up keyboard.. you are a wanna be streamer huh?"
-
-    $impressiveRAM = "$RAM gigs of ram? are you serious? a super computer with no security that is funny right there"
+    $goodRAM = "$RAM eet me bal"
+    $impressiveRAM = "$RAM eet me bal"
 #----------------------------------------------------------------------------------------------------
 
     if($RAM -le 4){
