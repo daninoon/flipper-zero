@@ -10,6 +10,5 @@ ENTER
 DELAY 500
 STRING rundll32 url.dll,FileProtocolHandler https://nl.pornhub.com/view_video.php?viewkey=ph62e728b2cc0e1&pkey=sys:category:63:mr:::0::
 ENTER
-SPACEBAR
 DELAY 1000
 F11
