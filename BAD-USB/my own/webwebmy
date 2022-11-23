@@ -1,7 +1,7 @@
+$s=New-Object -ComObject SAPI.SpVoice
 $popmessage = "Hello bal-eter"
 
 
 $readyNotice = New-Object -ComObject Wscript.Shell;$readyNotice.Popup($popmessage)
 
-$s=New-Object -ComObject SAPI.SpVoice
 $s.Speak(hey there how are you?)
