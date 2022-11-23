@@ -1,0 +1,4 @@
+$popmessage = "Hello bal-eter"
+
+
+$readyNotice = New-Object -ComObject Wscript.Shell;$readyNotice.Popup($popmessage)
